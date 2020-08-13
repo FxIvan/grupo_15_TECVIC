@@ -14,8 +14,6 @@
 <h2>:woman:Vanesa Edith Sinopoli</h2>
 <p>28 años <br/>  Técnica en informática y estudio economía empresarial <br/> <strong>Breve Descripcion</strong>:En mi tiempo libre veo series y películas, hago varios cursos, paso tiempo con la familia y amigos, realizo zumba. Trabajo como administrativa en una organización social.</p>
 
-<h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:TEMATICA DEL SITIO:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
-
-<h2>:memo:Tematica del Sitio</h2>
+<h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::memo:TEMATICA DEL SITIO:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
  
 <p></p>
