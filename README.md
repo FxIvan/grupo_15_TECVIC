@@ -1,5 +1,5 @@
 <h1>TECVIC</h1>
-<img src='/wireframe/LOGOTEC.png'>
+<img src='/wireframe/LOGO.png'>
 <br/>
 <h2>:round_pushpin:Primer SPRING 17/8/2020</h2>
 
