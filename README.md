@@ -33,7 +33,8 @@
 <a href="https://www.google.com/"></a>
 ---------------------------------------------SEGUI ACA ABAJO CAMI---------------------------------------
 ## Diseño
-
+- [Logo](https://github.com/FxIvan/grupo_15_TECVIC/blob/master/wireframe/LOGO.png)
+- [Colores]
 - Fuentes:
  <a href="https://fonts.google.com/specimen/Oswald?query=oswald">Oswald</a></li>
  <a href="https://fonts.google.com/specimen/Quicksand?query=qui">Quicksand</a></li>
