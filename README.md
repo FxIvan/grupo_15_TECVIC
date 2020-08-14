@@ -37,9 +37,10 @@
 - Colores
 - Fuentes:
 <ul>
- <li><a href="https://fonts.google.com/specimen/Oswald?query=oswald">Oswald</a></li>
-<li><a href="https://fonts.google.com/specimen/Quicksand?query=qui">Quicksand</a></li>
-<li><a href="https://fonts.google.com/specimen/Source+Code+Pro?query=sou">Source Code Pro</a></li>
-<li><a href="https://fonts.google.com/specimen/Kanit?query=kan">Kanit</a></li>
+<a href="https://fonts.google.com/specimen/Oswald?query=oswald">Oswald</a>
+<a href="https://fonts.google.com/specimen/Quicksand?query=qui">Quicksand</a>
+<a href="https://fonts.google.com/specimen/Source+Code+Pro?query=sou">Source Code Pro</a>
+<a href="https://fonts.google.com/specimen/Kanit?query=kan">Kanit</a>
+ </ul>
  
  
