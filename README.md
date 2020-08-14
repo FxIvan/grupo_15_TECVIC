@@ -34,13 +34,12 @@
 ---------------------------------------------SEGUI ACA ABAJO CAMI---------------------------------------
 ## Diseño
 - [Logo](https://github.com/FxIvan/grupo_15_TECVIC/blob/master/wireframe/LOGO.png)
-- Colores
+- [Colores](https://github.com/FxIvan/grupo_15_TECVIC/tree/master/colores)
 - Fuentes:
-<ul>
-<li><a href="https://fonts.google.com/specimen/Oswald?query=oswald">Oswald</a></li>
-<li><a href="https://fonts.google.com/specimen/Quicksand?query=qui">Quicksand</a></li>
-<li><a href="https://fonts.google.com/specimen/Source+Code+Pro?query=sou">Source Code Pro</a></li>
-<li><a href="https://fonts.google.com/specimen/Kanit?query=kan">Kanit</a></li>
- </ul>
+    - [Oswald](https://fonts.google.com/specimen/Oswald?query=oswald)
+    - [Quicksand](https://fonts.google.com/specimen/Quicksand?query=qui)
+    - [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro?query=sou)
+    - [Kanit](https://fonts.google.com/specimen/Kanit?query=kan)
+
  
  
