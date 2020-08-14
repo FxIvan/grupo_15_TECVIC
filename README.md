@@ -33,5 +33,11 @@
 <a href="https://www.google.com/"></a>
 ---------------------------------------------SEGUI ACA ABAJO CAMI---------------------------------------
 ## Diseño
-<ul>
+
+- Fuentes:
  <li><a href="https://fonts.google.com/specimen/Oswald?query=oswald">Oswald</a></li>
+ <li><a href="https://fonts.google.com/specimen/Quicksand?query=qui">Quicksand</a></li>
+ <li><a href="https://fonts.google.com/specimen/Source+Code+Pro?query=sou">Source Code Pro</a></li>
+ <li><a href="https://fonts.google.com/specimen/Kanit?query=kan">Kanit</a></li>
+ 
+ 
