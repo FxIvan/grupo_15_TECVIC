@@ -36,9 +36,11 @@
 - [Logo](https://github.com/FxIvan/grupo_15_TECVIC/blob/master/wireframe/LOGO.png)
 - Colores
 - Fuentes:
+<ul>
 <li><a href="https://fonts.google.com/specimen/Oswald?query=oswald">Oswald</a></li>
 <li><a href="https://fonts.google.com/specimen/Quicksand?query=qui">Quicksand</a></li>
 <li><a href="https://fonts.google.com/specimen/Source+Code+Pro?query=sou">Source Code Pro</a></li>
 <li><a href="https://fonts.google.com/specimen/Kanit?query=kan">Kanit</a></li>
+ </ul>
  
  
