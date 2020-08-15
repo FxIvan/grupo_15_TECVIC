@@ -30,7 +30,7 @@
 	La elegi por su diseño del carrito del compras y el formulario de registro
 </ul>
 
-<h2>:open file folder:Wireframe</h2>
+<h2>:file folder:Wireframe</h2>
 <ul>
  <li><a href="">Home</a></li>
  <li><a href="">Detalle del producto</a></li>
