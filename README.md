@@ -27,7 +27,7 @@
  <li><a href="https://www.aguafitness.com/">Agua Fitness</a></li>
  <li><a href="https://www.mgmstore.com.ar/">MGM Store</a></li>
  <li><a href="https://www.ofibay.com.ar/">Ofibay</a></li>
-	La elegi por su diseño del carrito del compras y el formulario de registro
+	La elegí por su diseño del carrito del compras y el formulario de registro
 </ul>
 
 <h2>&#x1f4c2 Wireframe</h2>
