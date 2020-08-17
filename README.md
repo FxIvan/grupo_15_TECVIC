@@ -26,6 +26,7 @@
  <li><a href="https://www.daleclick.com/">DaleClick</a></li>
  <li><a href="https://www.aguafitness.com/">Agua Fitness</a></li>
  <li><a href="https://www.mgmstore.com.ar/">MGM Store</a></li>
+	Lo elegi por la simpleza del la barra de navegacion y su simpleza
  <li><a href="https://www.ofibay.com.ar/">Ofibay</a></li>
 	La elegí por su diseño del carrito del compras y el formulario de registro
 </ul>
