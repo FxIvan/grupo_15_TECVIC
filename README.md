@@ -26,7 +26,8 @@
 	Lo elegi por la simpleza de la descripción.
  <li><a href="https://www.daleclick.com/">DaleClick</a></li>
 	Lo elegi por el diseño simple de su carrito.
- <li><a href="https://www.aguafitness.com/">Agua Fitness</a></li>
+ <li><a href="https://www.tiendabike.com.ar/">Tienda Bike</a></li>
+	Elegi este e-commerce por la simpleza de su plantilla de todo sus productos
  <li><a href="https://www.mgmstore.com.ar/">MGM Store</a></li>
 	Lo elegi por la simpleza del la barra de navegacion y su simpleza
  <li><a href="https://www.ofibay.com.ar/">Ofibay</a></li>
