@@ -29,7 +29,7 @@
  <li><a href="https://www.tiendabike.com.ar/">Tienda Bike</a></li>
 	Elegí este e-commerce por la simpleza de su plantilla de todo sus productos
  <li><a href="https://www.mgmstore.com.ar/">MGM Store</a></li>
-	Lo elegí por la simpleza del la barra de navegación y su simpleza
+	Lo elegí por la simpleza de la barra de navegación y su simpleza
  <li><a href="https://www.ofibay.com.ar/">Ofibay</a></li>
 	La elegí por su diseño del carrito de compras y el formulario de registro
 </ul>
