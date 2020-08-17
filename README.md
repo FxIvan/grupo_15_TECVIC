@@ -23,7 +23,9 @@
 
 <ul>
  <li><a href="https://www.mexx.com.ar/">Mexx</a></li>
+	Lo elegi por la simpleza de la descripción.
  <li><a href="https://www.daleclick.com/">DaleClick</a></li>
+	Lo elegi por el diseño simple de su carrito.
  <li><a href="https://www.aguafitness.com/">Agua Fitness</a></li>
  <li><a href="https://www.mgmstore.com.ar/">MGM Store</a></li>
 	Lo elegi por la simpleza del la barra de navegacion y su simpleza
