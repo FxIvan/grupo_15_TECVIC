@@ -23,15 +23,15 @@
 
 <ul>
  <li><a href="https://www.mexx.com.ar/">Mexx</a></li>
-	Lo elegi por la simpleza de la descripción.
+	Lo elegí por la simpleza de la descripción.
  <li><a href="https://www.daleclick.com/">DaleClick</a></li>
-	Lo elegi por el diseño simple de su carrito.
+	Lo elegí por el diseño simple de su carrito.
  <li><a href="https://www.tiendabike.com.ar/">Tienda Bike</a></li>
-	Elegi este e-commerce por la simpleza de su plantilla de todo sus productos
+	Elegí este e-commerce por la simpleza de su plantilla de todo sus productos
  <li><a href="https://www.mgmstore.com.ar/">MGM Store</a></li>
-	Lo elegi por la simpleza del la barra de navegacion y su simpleza
+	Lo elegí por la simpleza del la barra de navegación y su simpleza
  <li><a href="https://www.ofibay.com.ar/">Ofibay</a></li>
-	La elegí por su diseño del carrito del compras y el formulario de registro
+	La elegí por su diseño del carrito de compras y el formulario de registro
 </ul>
 
 <h2>&#x1f4c2 Wireframe</h2>
