@@ -6,7 +6,7 @@
 <h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:INTEGRANTES:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
  
 <h2>:boy: Ivan Ariel Almendra</h2>
-<p>19 años <br/> Tecnico Electromecánico y estudio Ingeniería Informática <br/> <strong>Breve Descripción</strong>: Me gusta hacer mucho deporte, en mis tiempos libres me gusta mirar series y aprender nueva cosas</p>
+<p>19 años <br/> Técnico Electromecánico y estudio Ingeniería Informática <br/> <strong>Breve Descripción</strong>: Me gusta hacer mucho deporte, en mis tiempos libres me gusta mirar series y aprender nueva cosas</p>
 
 <h2>:woman:Camila Medina</h2>
 <p>26 años <br/> Auxiliar de Enfermería <br/> <strong>Breve Descripción</strong>: Estudio terapia ocupacional. Me gusta en mis ratos libres leer, cocinar y jugar con mi perrita. Trabajo como masajista profesional a domicilio.</p>
