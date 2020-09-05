@@ -1,0 +1,563 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+                                                /*  ----------------   HEADER   ----------------*/
+/* ---- VERSION ESCRITORIO ----*/
+
+/* ---- GENERAL ----*/
+@media(min-width: 769px){
+
+/*      HEADER      */
+header, body{
+    background-color: white;
+    font-family: 'Oswald', sans-serif;
+}
+.containers ul li a{
+    text-decoration-line: none;
+}
+.containers ul li{
+    list-style: none;
+}
+a{
+    color: rgb(112, 111, 111);
+}
+
+/* ------  */
+
+a:hover{
+    color: rgb(44, 44, 44);
+}
+
+/*TAMAÑO LOGO*/
+.containers .logo{
+    height: 80px;
+    width: 100px;
+}
+
+.containers{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+
+.listas{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.containers .inputUsuario input{
+    width:200%;
+}
+
+.inputUsuario .placeHolder{
+    margin-left: 30%;
+    width: 100%;
+    margin-right: 15%;
+
+}
+.placeHolder::placeholder{
+    text-align: center;
+}
+
+.containers .registro{
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+}
+.containers .registro .entrar{
+    margin-left: 140%;
+}
+
+.containers .registro .carrito{
+    width: 1%;
+    position: absolute;
+    right: 75px;
+}
+
+.containers form{
+    width: 12%;
+    margin-bottom: 15px;
+}
+
+/*  FOOTER   */
+.container-footer{
+    /*
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    */
+    width: 100%;
+    display: flex;
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(136, 136, 136);
+    
+}
+/* ESTILO DE FUENTES*/
+
+.container-footer h3{
+    font-size: 20px;
+}
+
+.container-footer p{
+    font-size: 15px;
+}
+
+.container-footer  .tarjetaDC{
+    font-size: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(66, 65, 65);
+}
+
+
+
+/* ----- */
+.container-footer article:not(.nosotros-general){
+    width: 40%;
+    border-left: 1px solid black;
+}
+.pagos, .ubicacion, .nosotros, .redes{
+    text-align: center;
+}
+.container-footer .container-logo img{
+    border-radius: 50%;
+    width: 60%;
+}
+.container-footer .container-logo{
+    padding-top: 25px ;
+    background-color: white;
+    text-align: center;
+}
+article .nosotros{
+    border-left: none;
+}
+.nosotros-general{
+    width: 40%;
+}
+
+.pagos i{
+    font-size: 30px;
+
+}
+
+.redes i{
+    font-size: 30px;
+    width: 20%;
+}
+
+.container-redes{
+    margin-top: 10px;
+}
+/*          AQUI TERMINA EL FOOTER        */
+
+/*  PLANTILLA VERSION ESCRITORIO*/
+
+/*              IMG                 */
+.producto-plantilla img{
+    margin-left: 25%;
+    width: 50%;
+
+}
+/*                                  */
+
+/*              General             */
+.celularTitulo{
+    background-color: rgb(165, 218, 248);
+    padding: 4px 4px;
+}
+
+.celularTitulo h2{
+    text-align: center;
+    margin-left: 13%;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+
+}
+
+.referencia-top form{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.celulares-plantilla h3{
+    font-family: 'Oswald', sans-serif;
+    width: 230px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.celulares-plantilla h4{
+    width: 230px;
+    text-align: center;
+}
+
+/*                                  */
+
+/*              FILTRO              */
+
+.tabla-filtro{
+    border-right: 1px solid black;
+    margin-bottom: 10px;
+    width: 220%;
+    margin-top: 20px;
+}
+
+.tabla-filtro a{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.tabla-filtro h3{
+    font-family: 'Kanit', sans-serif;
+}
+
+.tabla-filtro ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+/*                                  */
+
+/*          ESTILO CELULARES        */
+
+.referencia-top{
+    margin-left: 24%;
+}
+
+/*.referencia-top h3 , .referencia-top h4{
+    margin-left: auto;
+    margin-right: auto;
+}
+*/
+.producto-plantilla{
+    display: flex;
+    padding: 0px;
+}
+
+.celulares-plantilla{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.celulares-plantilla article{    
+    width: 45%;
+    margin-top: 20px;
+    margin-left: 5%;
+}
+
+
+.nombre-articulo{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.referencia-top form{
+    margin-left:auto ;
+    margin-right: auto;
+}
+
+.celulares-plantilla form button a{
+    font-family: 'Quicksand', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+.celulares-plantilla form button{
+    background-color: rgb(46, 46, 46);
+    border-radius: 20px;
+    padding: 2%;
+}
+
+.celulares-plantilla form button:hover{
+    background-color: rgb(102, 102, 102);
+    border-radius: 20px;
+}
+
+/*   ----------- PRECIO OFERTA ---------*/
+
+.referencia-top h4 .actual{
+    text-decoration: line-through;
+    text-align: center;
+    font-size: 15px;
+}
+
+    /* INTENTANDO HACER UN FILTRO*/
+    #all-menu{
+        display: none;
+    }
+
+    /**/
+
+
+}
+
+/**************************************************************/
+/**************************************************************/
+/**************************************************************/
+/**************************************************************/
+
+/* ---- VERSION MOBILE ----*/
+@media(max-width: 768px){
+
+
+    /* INTENTANDO HACER UN FILTRO*/
+
+    nav{
+        background-color: rgb(31, 27, 27);
+    }
+    #all-menu{
+        margin: 0;
+        padding: 0 ;
+        width: 100%;
+        margin: 0;
+        margin-left: 20%;
+        
+    }
+    .tabla-filtro{
+        display: none;
+    }
+    #all-menu ul{
+        list-style: none;
+        padding: 0;
+        margin-left: 17%; 
+    }
+    #menu li>a{
+        /* DISEÑO */
+        background-color: rgb(216, 111, 111);
+        padding: 10px;
+        border: 1px solid black;
+        /**/
+        color: rgb(240, 233, 233);
+        display: block;
+        text-decoration: none;
+        margin-bottom: 10%;
+        font-family: 'Quicksand', sans-serif;
+        
+    }
+
+    #menu li>a:hover{
+        color: black;
+        background-color: #a8a5a5;
+    }
+
+    #menu>li{
+        float: left;
+        text-align: center;
+    }
+
+    #menu>li>ul{
+        display: none;
+    }
+
+    #menu>li:hover>ul{
+        display: block;
+    }
+
+    #menu li{
+        margin-bottom: 10%;
+    }
+    
+
+    /**/
+
+
+    /* GENERAL*/
+    body{
+        background-color:white;
+    }
+    header{
+        font-family: 'Oswald', sans-serif;
+    }
+    a{
+        color: black;
+    }
+    a{
+        color: rgb(112, 111, 111);
+    }
+    .containers ul li a{
+        text-decoration-line: none;
+    }
+    .containers ul li{
+        list-style: none;
+    }
+
+    /* ------ */
+    .container{
+        position: relative;
+    }
+    .container .logo{
+        margin: 0;
+        margin-left: 45%;
+        
+    }
+
+    .listas{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 0;
+    }
+
+    .inputUsuario{
+        text-align: center;
+    }
+
+    .inputUsuario input{
+        width: 85%;
+    }
+
+    .inputUsuario input:hover{
+        background-color: rgb(231, 228, 228) ;
+    }
+
+
+    .placeHolder::placeholder{
+        text-align: center;
+    }
+
+    .registro{
+        margin-top: 10px;
+        display: flex;
+        justify-content: space-evenly;
+        text-align: center;
+        padding: 0;
+    }
+
+    
+    img{
+        width: 30%;
+        height: 70%;
+        flex-wrap: wrap;
+        display: block;
+        margin: auto;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+
+    /*    FOOTER */
+
+        /*GENERALES*/
+        .container-footer{
+            /*
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            */
+            width: 100%;
+            display: flex;
+            font-family: 'Oswald', sans-serif;
+            background-color: rgb(136, 136, 136);
+        }
+    
+        .container-footer h3{
+            font-size: 10px;
+        }
+        .container-footer p{
+            font-size: 10px;
+        }
+        .container-footer p a{
+            color: black;
+            text-decoration: none;
+            font-size: 10px;
+        }
+        /* ------*/
+        .container-footer article{
+            width: 40%;
+            border-left: 1px solid black;
+        }
+        .pagos, .ubicacion, .nosotros, .redes{
+            text-align: center;
+        }
+    
+        .container-footer .container-logo img{
+            width: 0; /* sacamos la imagen */
+        }
+
+    /*   AQUI TERMINA EL FOOTER   */
+
+    /* PLANTILLA RESPONSIVE MOBILE*/
+    
+    
+    .celularTitulo{
+        background-color: rgb(165, 218, 248);
+        padding: 4px 4px;
+    }
+    .celularTitulo h2{
+        text-align: center;
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 600;    
+    }
+    .celulares-plantilla article{    
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .producto-plantilla img{
+        margin-left: 25%;
+        width: 50%;
+        margin-top: 50px;    
+    }
+
+    .referencia-top h3{
+        font-size: 18px;
+    }
+    .referencia-top h4{
+        font-size: 21px;
+    }
+
+    .referencia-top a{
+        color: black;
+    }
+
+    .referencia-top{
+        text-align: center;
+        border-top: 1px solid rgb(167, 166, 166);
+    }
+
+    .referencia-top form{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .referencia-top form{
+        margin-left:auto ;
+        margin-right: auto;
+    }
+    
+    .celulares-plantilla form button a{
+        font-family: 'Quicksand', sans-serif;
+        text-decoration: none;
+        color: white;
+    }
+    .celulares-plantilla form button{
+        background-color: rgb(46, 46, 46);
+        border-radius: 20px;
+        padding: 2%;
+    }
+ 
+    .celulares-plantilla form button:hover{
+        background-color: rgb(102, 102, 102);
+        border-radius: 20px;
+    }
+
+    .referencia-top h4 .actual{
+        text-decoration: line-through;
+        text-align: center;
+        font-size: 15px;
+    }
+    
+    /*                              */
+
+}
