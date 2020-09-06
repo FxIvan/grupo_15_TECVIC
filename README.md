@@ -54,5 +54,10 @@
     - [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro?query=sou)
     - [Kanit](https://fonts.google.com/specimen/Kanit?query=kan)
 
+<h2>:round_pushpin:SEGUNDO SPRINT 07/09/2020</h2>
+
+<h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: Tablero de Trabajo :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
+ 
+ Este es el link: https://trello.com/b/9zB3kgCF/grupo15-tecvic
  
  
