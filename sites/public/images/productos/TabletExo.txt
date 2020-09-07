@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>CSS</title>
+  <link rel="stylesheet" href="style.css">
+  </head>
+    
+  <body>
+     <div class="container">
+       <div class="jumbotron">
+         <h1>Tablet EXO Wave i101H 10.1"</h1>
+         <h1>$21.199</h1>
+         <h1>Descripción: </h1>
+         <h1>-Diseñada para llevar a todas partes.</h1>
+         <h1>-Sistema operativo: Android 8.1.</h1>
+         <h1>-Con procesador Cortex-A53 de 1.5GHz.</h1>
+         <h1>-Resolución de pantalla de 1920px x 1200px.</h1>
+         <h1>-Con lector mini SD.</h1>
+         <h1>-Cuenta con GPS.</h1>
+         <button class="btn btn-default">Comprar</button>
+         <button class="btn btn-default">Calcular envio</button>
+       </div>
+     </div>
+  </body>
+</html>
