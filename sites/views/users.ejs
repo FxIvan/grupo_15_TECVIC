@@ -1,83 +1,23 @@
 <!DOCTYPE html>
 <html lang="es">
-    <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" />
-            <link rel="stylesheet" href="stylesheets/users.css">
-            <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet">
-            <title>TEC VIC</title>
-    </head>
-    <body>
-        <header>
-            <div class="container-fluid containers">
-                <a href="/"><img src="images/LOGO.png" alt="" class="logo"></a>
-                <ul class="listas">
-                    <li><a href="" class="">Celulares</a></li>
-                    <li><a href="" class="">Accesorios</a></li>
-                    <li><a href="" class="">Nootbook</a></li>
-                    <li><a href="" class="">Tablet</a></li>
-                </ul>
-                <form action="" class="inputUsuario">
-                    <input type="text" placeholder="¿Que estas buscando?" class="placeHolder">
-                </form>
-                <ul class="registro">
-                    <li><a href="" class="carrito"><i class="fas fa-shopping-basket"></i></a></li>
-                    <li><a href="" class="entrar">Entrar</a></li>
-                    <li><a href="">Registrarse</a></li>
-                </ul>
-            </div>
-        </header>
-        <!-- AQUI TERMINA EL HEADER-->
-        <div>
-            <br><label for="" class="reg">Nombre de Usuario</label>
-            <input type="text" class="redondeado" placeholder="Ingrese su mail" name="mailReg" required><br>
-            <br><label for="" class="reg">Contraseña</label>
-            <input type="text" class="redondeado" placeholder="Ingrese su contraseña" name="contraseñaReg" required><br>
-            <br><button type="submit" class="boton">Acceder</button>
-            <button type="delete" class="boton">Borrar</button><br>
- <!-- AQUI EMPIEZA EL FOOTER-->
- <footer>
-    <section class="container-footer">
-        <div class="container-logo">
-            <a href=""><img src="images/LOGO.png" alt=""></a>
-        </div>
-        <article class="nosotros-general">
-            <div class="nosotros">
-                <h3>Acerca de TecVIC</h3>
-                <p><a href="">¿Quines Somos?</a></p>
-                <p><a href="">Ubicacion</a></p>
-                <p><a href="">¿Quines Somos?</a></p>
-            </div>
-        </article>
-        <article>
-            <div class="ubicacion">
-                <h3>¿Donde Estamos?</h3>
-                <p>Avenida Mitre 1768, Quilmes</p>
-                <p>Tel: +54 1161419541</p>
-                <p>Lunes a Viernes de 8:00 a 17:00</p>
-            </div>
-        </article>
-        <article>
-            <div class="pagos">
-                <h3>Medios de Pagos</h3>
-                <p class="tarjetaDC">* Tarjeta de credito y debito</p>
-                <i class="fab fa-cc-visa"></i>
-                <i class="fab fa-cc-mastercard"></i>
-                <i class="fab fa-cc-paypal"></i>
-            </div>
-        </article>
-        <article>
-            <div class="redes">
-                <h3>Redes</h3>
-                <div class="container-redes">
-                    <a href=""><i class="fab fa-facebook-f"></i></a>
-                    <a href=""><i class="fab fa-instagram"></i></a>
-                    <a href=""><i class="fab fa-whatsapp"></i></a>
-                </div>
-            </div>
-        </article>
-    </section>
-</footer>
+
+    <%- include('partials/head') %> 
+    <link rel="stylesheet" href="stylesheets/users.css">
+
+
+<body>
+    <!-- AQUI EMPIEZA EL HEADER-->
+    <%- include('partials/header') %>
+    <!-- AQUI TERMINA EL HEADER-->
+    <div>
+        <br><label for="" class="reg">Nombre de Usuario</label>
+        <input type="text" class="redondeado" placeholder="Ingrese su mail" name="mailReg" required><br>
+        <br><label for="" class="reg">Contraseña</label>
+        <input type="text" class="redondeado" placeholder="Ingrese su contraseña" name="contraseñaReg" required><br>
+        <br><button type="submit" class="boton">Acceder</button>
+        <button type="delete" class="boton">Borrar</button><br>
+        <!-- AQUI EMPIEZA EL FOOTER-->
+        <%- include('partials/footer') %>
 </body>
+
 </html>

@@ -1,240 +1,179 @@
 <!DOCTYPE html>
 <html lang="es">
-    <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" />
-            <link rel="stylesheet" href="stylesheets/register.css">
-            <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet">
-            <title>TEC VIC</title>
-    </head>
-    <body>
-        <header>
-            <div class="container-fluid containers">
-                <a href="/"><img src="images/LOGO.png" alt="" class="logo"></a>
-                <ul class="listas">
-                    <li><a href="" class="">Celulares</a></li>
-                    <li><a href="" class="">Accesorios</a></li>
-                    <li><a href="" class="">Nootbook</a></li>
-                    <li><a href="" class="">Tablet</a></li>
-                </ul>
-                <form action="" class="inputUsuario">
-                    <input type="text" placeholder="¿Que estas buscando?" class="placeHolder">
-                </form>
-                <ul class="registro">
-                    <li><a href="" class="carrito"><i class="fas fa-shopping-basket"></i></a></li>
-                    <li><a href="" class="entrar">Entrar</a></li>
-                    <li><a href="">Registrarse</a></li>
-                </ul>
-            </div>
-        </header>
-        <!-- AQUI TERMINA EL HEADER-->
-        <h1 class="reg">Crear Cuenta</h1>
-        <div>
-            <br><label for="" class="reg">Nombre</label>
-            <input type="text" class="redondeado" name="name" required><br>
-            <br><label for="" class="reg">Apellido</label>
-            <input type="text" class="redondeado" name="lastName" required><br>
-            <br><label for="" class="reg">Correo Electronico</label>
-            <input type="text" class="redondeado" name="email" required><br>
-            <br><label for="" class="reg">Confirmar Correo</label>
-            <input type="text" class="redondeado" name="emailConfirmado" required><br>
-            <br><label for="" class="reg">Contraseña</label>
-            <input type="password" class="redondeado" name="password" required><br>
-            <br><label for="" class="reg">Repetir Contraseña</label>
-            <input type="password" class="redondeado" name="passwordConfirmada" required><br>
-            <br><label for="" class="reg">Celular N°</label>
-            <input type="number" class="redondeado" name="celular" required><br>
-            <div>
-                <br><label for="" class="reg">Fecha de Nacimiento</label>
-                <select class="redondeado" name="day">
-                    <option>Dia</option>
-                    <option>01</option>
-                    <option>02</option>
-                    <option>03</option>
-                    <option>04</option>
-                    <option>05</option>
-                    <option>06</option>
-                    <option>07</option>
-                    <option>08</option>
-                    <option>09</option>
-                    <option>10</option>
-                    <option>11</option>
-                    <option>12</option>
-                    <option>13</option>
-                    <option>14</option>
-                    <option>15</option>
-                    <option>16</option>
-                    <option>17</option>
-                    <option>18</option>
-                    <option>19</option>
-                    <option>20</option>
-                    <option>21</option>
-                    <option>22</option>
-                    <option>23</option>
-                    <option>24</option>
-                    <option>25</option>
-                    <option>26</option>
-                    <option>27</option>
-                    <option>28</option>
-                    <option>29</option>
-                    <option>30</option>
-                    <option>31</option>
-                </select>
-                <label for="" class="reg"></label>
-                <select class="redondeado" name="month" required>
-                    <option>Mes</option>
-                    <option>01</option>
-                    <option>02</option>
-                    <option>03</option>
-                    <option>04</option>
-                    <option>05</option>
-                    <option>06</option>
-                    <option>07</option>
-                    <option>08</option>
-                    <option>09</option>
-                    <option>10</option>
-                    <option>11</option>
-                    <option>12</option>
-                </select>
-                <label for="" class="reg"></label>
-                <select class="redondeado" name="year">
-                    <option>Año</option>
-                    <option>2002</option>
-                    <option>2001</option>
-                    <option>2000</option>
-                    <option>1999</option>
-                    <option>1998</option>
-                    <option>1997</option>
-                    <option>1996</option>
-                    <option>1995</option>
-                    <option>1994</option>
-                    <option>1993</option>
-                    <option>1992</option>
-                    <option>1991</option>
-                    <option>1990</option>
-                    <option>1989</option>
-                    <option>1988</option>
-                    <option>1987</option>
-                    <option>1986</option>
-                    <option>1985</option>
-                    <option>1984</option>
-                    <option>1983</option>
-                    <option>1982</option>
-                    <option>1981</option>
-                    <option>1980</option>
-                    <option>1979</option>
-                    <option>1978</option>
-                    <option>1977</option>
-                    <option>1976</option>
-                    <option>1975</option>
-                    <option>1974</option>
-                    <option>1973</option>
-                    <option>1972</option>
-                    <option>1971</option>
-                    <option>1970</option>
-                </select>               
-            </div>
-            <br><label for="" class="reg">D.N.I. N°</label>
-            <input type="number" class="redondeado" placeholder="Sin puntos ni guiones" name="dni" required><br>
-            <br><label for="" class="reg">Dirección</label>
-            <input type="text" class="redondeado" name="direccion" required><br>
-            <br><label for="" class="reg">Código Postal</label>
-            <input type="number" class="redondeado" name="codigoPostal" required><br>
-            <br><label for="" class="reg">Localidad</label>
-            <select  class="redondeado" name="localidad" required>
-                <option>Lanús</option>
-                <option>Lomas de Zamora</option>
-                <option>Avellaneda</option>
-                <option>Quilmes</option>
-                <option>José C Paz</option>
-                <option>Bernal</option>
-                <option>Remedios De Escalada</option>
-                <option>Valentin Alsina</option>
-                <option>Banfield</option>
-                <option>Temperley</option>
-                <option>Berazategui</option>
-                <option>Monte Chingolo</option>
-                <option>Solano</option>
-                <option>Gerli</option>
-                <option>Longchamps</option>
-                <option>Monte Grande</option>
-                <option>Ezeiza</option>
-                <option>Tigre</option>
-                <option>San Martin</option>
-                <option>Olivos</option>
-                <option>Vicente Lopez</option>
-                <option>Villa Delina</option>
-                <option>Merlo</option>
-                <option>Moreno</option>
-                <option>Munro</option>
-                <option>Ituzaingo</option>
-                <option>Escobar</option>
-                <option>Wilde</option>
-                <option>Villa Dominico</option>
-                <option>La Plata</option>
-                <option>Beriso</option>
-                <option>Ensenada</option>
-                <option>Adrogué</option>
-                <option>Lavallol</option>
-            </select><br>
-            <br><label for="" class="reg">Provincia</label>
-            <select class="redondeado"  name="provincia" required>
-                <option>Buenos Aires</option>
-                <option>Buenos Aires Zona Sur</option>
-                <option>Buenos Aires Zona Norte</option>
-                <option>Buenos Aires Zona Oeste</option>
-            </select><br>
-            <br><label class="reg">Desea recibir nuestras promociones</label>
-            <input type="checkbox" class="redondeado" value="notificacion"> 
-        </div>
-        <div>
-            <br><button type="submit" class="boton">Registrarse</button>
-            <button type="reset" class="boton">Borrar</button>
-        </div>
 
-         <!-- AQUI EMPIEZA EL FOOTER-->
-    <footer>
-        <section class="container-footer">
-            <div class="container-logo">
-                <a href=""><img src="images/LOGO.png" alt=""></a>
-            </div>
-            <article class="nosotros-general">
-                <div class="nosotros">
-                    <h3>Acerca de TecVIC</h3>
-                    <p><a href="">¿Quines Somos?</a></p>
-                    <p><a href="">Ubicacion</a></p>
-                    <p><a href="">¿Quines Somos?</a></p>
-                </div>
-            </article>
-            <article>
-                <div class="ubicacion">
-                    <h3>¿Donde Estamos?</h3>
-                    <p>Avenida Mitre 1768, Quilmes</p>
-                    <p>Tel: +54 1161419541</p>
-                    <p>Lunes a Viernes de 8:00 a 17:00</p>
-                </div>
-            </article>
-            <article>
-                <div class="pagos">
-                    <h3>Medios de Pagos</h3>
-                    <p class="tarjetaDC">* Tarjeta de credito y debito</p>
-                    <i class="fab fa-cc-visa"></i>
-                    <i class="fab fa-cc-mastercard"></i>
-                    <i class="fab fa-cc-paypal"></i>
-                </div>
-            </article>
-            <article>
-                <div class="redes">
-                    <h3>Redes</h3>
-                    <div class="container-redes">
-                        <a href=""><i class="fab fa-facebook-f"></i></a>
-                        <a href=""><i class="fab fa-instagram"></i></a>
-                        <a href=""><i class="fab fa-whatsapp"></i></a>
-                    </div>
-                </div>
-            </article>
-        </section>
-    </footer>
-    </body>
+<%- include('partials/head') %>
+<link rel="stylesheet" href="stylesheets/register.css">
+
+<body>
+    <!-- AQUI EMPIEZA EL HEADER-->
+    <%- include('partials/header') %>
+    <!-- AQUI TERMINA EL HEADER-->
+    <h1 class="reg">Crear Cuenta</h1>
+    <div>
+        <br><label for="" class="reg">Nombre</label>
+        <input type="text" class="redondeado" name="name" required><br>
+        <br><label for="" class="reg">Apellido</label>
+        <input type="text" class="redondeado" name="lastName" required><br>
+        <br><label for="" class="reg">Correo Electronico</label>
+        <input type="text" class="redondeado" name="email" required><br>
+        <br><label for="" class="reg">Confirmar Correo</label>
+        <input type="text" class="redondeado" name="emailConfirmado" required><br>
+        <br><label for="" class="reg">Contraseña</label>
+        <input type="password" class="redondeado" name="password" required><br>
+        <br><label for="" class="reg">Repetir Contraseña</label>
+        <input type="password" class="redondeado" name="passwordConfirmada" required><br>
+        <br><label for="" class="reg">Celular N°</label>
+        <input type="number" class="redondeado" name="celular" required><br>
+        <div>
+            <br><label for="" class="reg">Fecha de Nacimiento</label>
+            <select class="redondeado" name="day">
+                <option>Dia</option>
+                <option>01</option>
+                <option>02</option>
+                <option>03</option>
+                <option>04</option>
+                <option>05</option>
+                <option>06</option>
+                <option>07</option>
+                <option>08</option>
+                <option>09</option>
+                <option>10</option>
+                <option>11</option>
+                <option>12</option>
+                <option>13</option>
+                <option>14</option>
+                <option>15</option>
+                <option>16</option>
+                <option>17</option>
+                <option>18</option>
+                <option>19</option>
+                <option>20</option>
+                <option>21</option>
+                <option>22</option>
+                <option>23</option>
+                <option>24</option>
+                <option>25</option>
+                <option>26</option>
+                <option>27</option>
+                <option>28</option>
+                <option>29</option>
+                <option>30</option>
+                <option>31</option>
+            </select>
+            <label for="" class="reg"></label>
+            <select class="redondeado" name="month" required>
+                <option>Mes</option>
+                <option>01</option>
+                <option>02</option>
+                <option>03</option>
+                <option>04</option>
+                <option>05</option>
+                <option>06</option>
+                <option>07</option>
+                <option>08</option>
+                <option>09</option>
+                <option>10</option>
+                <option>11</option>
+                <option>12</option>
+            </select>
+            <label for="" class="reg"></label>
+            <select class="redondeado" name="year">
+                <option>Año</option>
+                <option>2002</option>
+                <option>2001</option>
+                <option>2000</option>
+                <option>1999</option>
+                <option>1998</option>
+                <option>1997</option>
+                <option>1996</option>
+                <option>1995</option>
+                <option>1994</option>
+                <option>1993</option>
+                <option>1992</option>
+                <option>1991</option>
+                <option>1990</option>
+                <option>1989</option>
+                <option>1988</option>
+                <option>1987</option>
+                <option>1986</option>
+                <option>1985</option>
+                <option>1984</option>
+                <option>1983</option>
+                <option>1982</option>
+                <option>1981</option>
+                <option>1980</option>
+                <option>1979</option>
+                <option>1978</option>
+                <option>1977</option>
+                <option>1976</option>
+                <option>1975</option>
+                <option>1974</option>
+                <option>1973</option>
+                <option>1972</option>
+                <option>1971</option>
+                <option>1970</option>
+            </select>
+        </div>
+        <br><label for="" class="reg">D.N.I. N°</label>
+        <input type="number" class="redondeado" placeholder="Sin puntos ni guiones" name="dni" required><br>
+        <br><label for="" class="reg">Dirección</label>
+        <input type="text" class="redondeado" name="direccion" required><br>
+        <br><label for="" class="reg">Código Postal</label>
+        <input type="number" class="redondeado" name="codigoPostal" required><br>
+        <br><label for="" class="reg">Localidad</label>
+        <select class="redondeado" name="localidad" required>
+            <option>Lanús</option>
+            <option>Lomas de Zamora</option>
+            <option>Avellaneda</option>
+            <option>Quilmes</option>
+            <option>José C Paz</option>
+            <option>Bernal</option>
+            <option>Remedios De Escalada</option>
+            <option>Valentin Alsina</option>
+            <option>Banfield</option>
+            <option>Temperley</option>
+            <option>Berazategui</option>
+            <option>Monte Chingolo</option>
+            <option>Solano</option>
+            <option>Gerli</option>
+            <option>Longchamps</option>
+            <option>Monte Grande</option>
+            <option>Ezeiza</option>
+            <option>Tigre</option>
+            <option>San Martin</option>
+            <option>Olivos</option>
+            <option>Vicente Lopez</option>
+            <option>Villa Delina</option>
+            <option>Merlo</option>
+            <option>Moreno</option>
+            <option>Munro</option>
+            <option>Ituzaingo</option>
+            <option>Escobar</option>
+            <option>Wilde</option>
+            <option>Villa Dominico</option>
+            <option>La Plata</option>
+            <option>Beriso</option>
+            <option>Ensenada</option>
+            <option>Adrogué</option>
+            <option>Lavallol</option>
+        </select><br>
+        <br><label for="" class="reg">Provincia</label>
+        <select class="redondeado" name="provincia" required>
+            <option>Buenos Aires</option>
+            <option>Buenos Aires Zona Sur</option>
+            <option>Buenos Aires Zona Norte</option>
+            <option>Buenos Aires Zona Oeste</option>
+        </select><br>
+        <br><label class="reg">Desea recibir nuestras promociones</label>
+        <input type="checkbox" class="redondeado" value="notificacion">
+    </div>
+    <div>
+        <br><button type="submit" class="boton">Registrarse</button>
+        <button type="reset" class="boton">Borrar</button>
+    </div>
+
+    <!-- AQUI EMPIEZA EL FOOTER-->
+    <%- include('partials/footer') %>
+</body>
+
 </html>
