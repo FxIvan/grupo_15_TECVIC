@@ -1,10 +1,9 @@
-<footer>
-    <section class="container-footer">
-
-        <div class="container-logo">
-            <a href=""><img src="images/LOGO.png" alt=""></a>
-        </div>
-        <article class="nosotros-general">
+<footer class="container-fluid">
+    <div class="row footer">
+      <!--contiene pago con tarjeta-->
+      <div class="col-12 col-lg-3">
+        <article>
+          <article class="nosotros-general">
             <div class="nosotros">
                 <h3>Acerca de TecVIC</h3>
                 <p><a href="">¿Quines Somos?</a></p>
@@ -12,17 +11,21 @@
                 <p><a href="">¿Quines Somos?</a></p>
             </div>
         </article>
-
+      </div>
+      <!--donde encontrarnos-->
+      <div class="col-12 col-lg-3">
         <article>
-            <div class="ubicacion">
-                <h3>¿Donde Estamos?</h3>
-                <p>Avenida Mitre 1768, Quilmes</p>
-                <p>Tel: +54 1161419541</p>
-                <p>Lunes a Viernes de 8:00 a 17:00</p>
-            </div>
-        </article>
-
-        <article>
+          <div class="ubicacion">
+              <h3>¿Donde Estamos?</h3>
+              <p>Avenida Mitre 1768, Quilmes</p>
+              <p>Tel: +54 1161419541</p>
+              <p>Lunes a Viernes de 8:00 a 17:00</p>
+          </div>
+      </article>
+      </div>
+        <!-- sobre nosotros-->
+        <div class="col-12 col-lg-2">
+          <article>
             <div class="pagos">
                 <h3>Medios de Pagos</h3>
                 <p class="tarjetaDC">* Tarjeta de credito y debito</p>
@@ -30,22 +33,45 @@
                 <i class="fab fa-cc-mastercard"></i>
                 <i class="fab fa-cc-paypal"></i>
             </div>
-        </article>
-
+          </article>
+        </div>
+        <div class="col-12 col-lg-2"></div>
         <article>
-            <div class="redes">
-                <h3>Redes</h3>
-                <div class="container-redes">
-                    <a href=""><i class="fab fa-facebook-f"></i></a>
-                    <a href=""><i class="fab fa-instagram"></i></a>
-                    <a href=""><i class="fab fa-whatsapp"></i></a>
-                </div>
-            </div>
-            <div class="boton">
-                 <a href="/productAdd">SystemProduct</a>
-            </div>
-        </article>
+          <div class="redes">
+              <h3>Redes</h3>
+              <div class="container-redes">
+                <a href=""><i class="fab fa-facebook"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""><i class="fab fa-whatsapp"></i></a>
+              </div>
+          </div>
+          <div class="boton">
+               <a href="/products/add/form">ProductAdd</a>
+          </div>
+      </article>
+    </div>
 
+      </div>
+       <!--contiene copyright-->
+       <div class="col-12">
+        <p class="copyright">Copyright © 1999-2019 TECVIC S.R.L.</p>
+    </div>
+    </div>
+  </footer>
 
-    </section>
-</footer>
+  <!--scripts de bootstrap-->
+  <script
+    src="https://code.jquery.com/jquery-3.5.1.slim.min.js "
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj "
+    crossorigin="anonymous "
+  ></script>
+  <script
+    src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js "
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo "
+    crossorigin="anonymous "
+  ></script>
+  <script
+    src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js "
+    integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI "
+    crossorigin="anonymous "
+  ></script>
