@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "name": "Celulares",
+      "sub": [
+        "Samsung",
+        "Apple",
+        "Huaweu",
+        "LG",
+        "A7",
+        "Motorola"
+       ]
+    },
+    {
+      "id": "2",
+      "name": "Accesorios",
+      "sub": [
+        "Cable HDMI",
+        "Cable USB",
+        "Auriculares",
+        "Cargadores"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Notebook",
+      "sub": [
+        "Lenovo",
+        "EXO",
+        "Samsung",
+        "HP"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Tablet",
+      "sub": [
+        "EXO",
+        "Lenovo",
+        "Noga",
+        "Samsung"
+      ]
+    }
+  ]

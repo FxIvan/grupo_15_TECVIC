@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "Auricular Zuena Unicornio", 
+        "price": 1800,
+        "discount": 50,
+        "category": "visited",
+        "description": "Marca: Zuena, Color: Purpura, Modelo: UNICORNIO, Conectividad: cable 3.5 mm, Manos libre: no",
+        "image": "Auricular-Zuena-Unicornio-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Notebook  Convertible 14-dh0021la",
+        "price": 78499,
+        "discount": 3,
+        "category": "in-sale",
+        "description": "Marca: HP Pavilion 360, Procesador: Intel Core i3-8145U 8th Gen, Sistema operativo: Windows 10 Home, Pantalla: HD, 1, emoria: 4 GB, Almacenamiento: 1 TB, Tarjeta Gráfica: Intel HD Graphics 620, Sonido: micrófono digital integrado, Funciones de audio Audio by B&O, altavoces dobles, Camara: HP Wide Vision HD, Color: Plata, Conectividad: Wi-Fi 5 (1x1) y Bluetooth 4.2, Puertos y ranuras: 1 USB 3.1 Type-C Gen 1, 2 USB 3.1 Type-A Gen 1, 1 HDMI 1.4 1 combinación de auriculares y micrófono Inalámbrico, Wi-Fi y Bluetooth 4.2 expansión, 1 lector de tarjetas SD multiformato",
+        "image": "Notebook-HP-1.png"
+    },
+    {
+        "id": 3,
+        "name": "Auriculares Motorola Verde",
+        "price": 800,
+        "discount": 25,
+        "category": "in-sale",
+        "description": "Marca:Motorola, Color: Verde, Modelo: EARBUDS 2 Lima, Conectividad: Bluetooth 5.0 y Cable 3.5 mm, Manos Libre: si",
+        "image": "Auriculares-Motorola-Verde-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Tablet Samsung Galaxy Tab A 2019 SM-T510 10.1",
+        "price": 29999,
+        "discount": 10,
+        "category": "in-sale",
+        "description": "-Sistema operativo: Android 9-Con procesador Octa-Core de 1.8GHz-Resolución de pantalla de 1920px x 1200px-Versión: 2019-Con lector microSD card-Cuenta con GPS",
+        "image": "TabletSamsung800x800.jpg"
+     
+    },
+    {
+        "id": 5,
+        "name": "Celular liberado motorola",
+        "description": "Marca: Motorola, Modelo: G8, Color: azul",
+        "price": 30000,
+        "discount": 20,
+        "image": "celular-libre-motorola-g8-azul.jpg",
+        "category": "in-sale"
+    },
+    {
+        "id": 6,
+        "name": "Cargador portatil ",
+        "description": "Marca: Tplink, Tipo: 20000 mAH Usb, Color: Negro",
+        "price": 3400,
+        "discount": 12,
+        "image": "Cargador-TPLink-1.jpg",
+        "category": "in-sale"
+    },
+    {
+        "id": 7,
+        "name": "Cable Hdmi Macho A Vga 15 Pines Macho ",
+        "description": "Marca: PeoTRIOL, Modelo: 4330479600, Conector de entrada: vga, Largo del cable: 1 m",
+        "price": 600,
+        "discount": 5,
+        "image": "Cable-HDMI-PeoTriol-1.jpg",
+        "category": "in-sale"
+    },
+    {
+        "id": 8,
+        "name": "Celular LG negro",
+        "description": "Marca: LG, Modelo: k40S, Color: Negro, Memoria Interna: 32 GB",
+        "price": 20000,
+        "discount": 2,
+        "image": "celular-LG-K40s-negro-32gb.jpg",
+        "category": "in-sale"
+    },
+    {
+        "id": 9,
+        "name": "Celular Samsung Negro",
+        "description": "Marca: Samsung, Modelo: A10, Color: Negro, Memoria Interna: 32 GB",
+        "price": 25000,
+        "discount": 0,
+        "image": "celular-A10-Samsung-32GB.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 10,
+        "name": "Tablet Lenovo Tab M10 TB-X505F 10.1",
+        "description": "-Diseñada para llevar a todas partes-Sistema operativo: Android 9-Con procesador Quad-Core Cortex-A53 de 2GHz-Resolución de pantalla de 1280px x 800px-Con lector microSD card-Óptimas reproducciones en 720p HD-Cuenta con GPS.",
+        "price": 29999,
+        "discount": 10,
+        "image": "TabletLenovo800x800.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 11,
+        "name": "Notebook 9 Pro incluye lapiz activo y seguridad huella dactilar",
+        "description": "Marca: Samsung, Procesador: Intel Core i7-8565U de 8.va generación, Sistema Operativo: Windows 10 Home, Pantalla: FHD de 13,3 pulgadas, bisel de 6,7 mm, 350 nits, Memoria: 8 GB, Almacenamiento: 256 GB, Tarjeta gráfica: Intel UHD 620, Sonido: Altavoces 1,5 W x2, Thunder Amp, Cámara: HD, Color: Gray Platinum, Conectividad: inalámbrica 802.11ac 202 (Giga), Puertos y ranuraas: Thunderbolt 3 x2, USB-C x1, 3,5mm, microSD",
+        "price": 250000,
+        "discount": 12,
+        "image": "Notebook-Samsung-1.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 12,
+        "name": "Celular apple",
+        "description": "Marca: Apple, Modelo: Iphone, Color: Plata, Memoria Interna: 64 GB",
+        "price": 32990,
+        "discount": 0,
+        "image": "celular-apple-iphone-64gb.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 13,
+        "name": "Cargador Motorola",
+        "description": "Marca: Motorola, Tipo: C- 15w, Color: Negro",
+        "price": 2900,
+        "discount": 0,
+        "image": "Cargador-Motorola-1.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 14,
+        "name": "Auriculares Iphone",
+        "description": "Marca: Apple, Color: Blanco, Modelo: MMTN2AM/A iPhone, Conectividad: cable 3.5 mm, Manos libre: no",
+        "price": 6000,
+        "discount": 5,
+        "image": "Auriculares-Iphone-Apple-1.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 15,
+        "name": "Tablet Noga Nogapad 7G 7",
+        "description": "-Diseñada para llevar a todas partes-Sistema operativo: Android 8.1-Con procesador Quad-Core Cortex-A7 de 1.3GHz-Resolución de pantalla de 1024px x 600px-Con lector microSD card-Óptimas reproducciones en HD.",
+        "price": 9400,
+        "discount": 12,
+        "image": "TabletNoga800x800.jpg",
+        "category": "visited"
+    },
+    {
+        "id": 16,
+        "name": "Tablet EXO Wave i101H 10.1",
+        "price": 21199,
+        "discount": 5,
+        "category": "in-sale",
+        "description": "Diseñada para llevar a todas partes, Sistema operativo: Android 8.1, Con procesador Cortex-A53 de 1.5GHz, Resolución de pantalla de 1920px x 1200px, Con lector mini SD, Cuenta con GPS",
+        "image": "TabletExo800x800.jpg"
+    }
+]
