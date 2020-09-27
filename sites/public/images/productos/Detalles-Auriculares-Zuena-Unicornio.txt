@@ -1,9 +1,0 @@
-Auricular 
-
-Marca: Zuena
-Color: Purpura
-Modelo: UNICORNIO
-Conectividad: cable 3.5 mm
-Manos libre: no
-
-Precio 1800
