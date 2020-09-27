@@ -58,18 +58,18 @@
 
 <h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: Tablero de Trabajo :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
  
- Este es el link: https://trello.com/b/9zB3kgCF/grupo15-tecvic
+ Este es el link: https://trello.com/invite/b/9zB3kgCF/bd83614000eca057cc59ff4c21ab74a0/grupo15-tecvic
  
  <h2>:round_pushpin:TERCERO SPRINT 21/09/2020</h2>
 
 <h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: Tablero de Trabajo :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
  
- Link al tablero actualizado: https://trello.com/b/9zB3kgCF/grupo15-tecvic
+ Link al tablero actualizado: https://trello.com/invite/b/9zB3kgCF/bd83614000eca057cc59ff4c21ab74a0/grupo15-tecvic
  
  <h2>:round_pushpin:CUARTO SPRINT 05/10/2020</h2>
 
 <h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: Tablero de Trabajo :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
  
-Link al tablero actualizado: https://trello.com/b/9zB3kgCF/grupo15-tecvic
+Link al tablero actualizado: https://trello.com/invite/b/9zB3kgCF/bd83614000eca057cc59ff4c21ab74a0/grupo15-tecvic
  
  
