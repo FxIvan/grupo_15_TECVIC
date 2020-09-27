@@ -19,7 +19,7 @@
 
 
 
-<h2>:round_pushpin: CUARTO SPRINT 21/09/2020</h2>
+<h2>:round_pushpin: CUARTO SPRINT 05/10/2020</h2>
 
 <h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: Breve Retrospectiva:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
 
