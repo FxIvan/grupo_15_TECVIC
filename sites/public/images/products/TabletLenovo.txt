@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>CSS</title>
+  <link rel="stylesheet" href="style.css">
+  </head>
+    
+  <body>
+     <div class="container">
+       <div class="jumbotron">
+         <h1>Tablet Lenovo Tab M10 TB-X505F 10.1"</h1>
+         <h1>$29.999</h1>
+         <h1>Descripción: </h1>
+         <h1>-Diseñada para llevar a todas partes.<h1>
+         <h1>-Sistema operativo: Android 9.</h1>
+         <h1>-Con procesador Quad-Core Cortex-A53 de 2GHz.</h1>
+         <h1>-Resolución de pantalla de 1280px x 800px.</h1>
+         <h1>-Con lector microSD card.</h1>
+         <h1>-Óptimas reproducciones en 720p HD.</h1>
+         <h1>-Cuenta con GPS.</h1>
+         <button class="btn btn-default">Comprar</button>
+         <button class="btn btn-default">Calcular envio</button>
+       </div>
+     </div>
+  </body>
+</html>
