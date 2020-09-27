@@ -1,7 +1,7 @@
 <h1>TECVIC</h1>
 <img src='/wireframe/LOGO.png'>
 <br/>
-<h2>:round_pushpin:Primer SPRINT 17/8/2020</h2>
+<h2>:round_pushpin:PRIMER SPRINT 17/8/2020</h2>
 
 <h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:INTEGRANTES:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
  
@@ -59,5 +59,17 @@
 <h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: Tablero de Trabajo :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
  
  Este es el link: https://trello.com/b/9zB3kgCF/grupo15-tecvic
+ 
+ <h2>:round_pushpin:TERCERO SPRINT 21/09/2020</h2>
+
+<h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: Tablero de Trabajo :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
+ 
+ Link al tablero actualizado: https://trello.com/b/9zB3kgCF/grupo15-tecvic
+ 
+ <h2>:round_pushpin:CUARTO SPRINT 05/10/2020</h2>
+
+<h2>:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: Tablero de Trabajo :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:</h2>
+ 
+Link al tablero actualizado: https://trello.com/b/9zB3kgCF/grupo15-tecvic
  
  
