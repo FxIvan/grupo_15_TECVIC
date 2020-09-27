@@ -1,7 +1,0 @@
-Cargador portatil 
-
-Marca: Tplink 
-Tipo: 20000 mAH Usb
-Color: Negro
-
-precio 3.400
