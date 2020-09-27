@@ -1,0 +1,60 @@
+/*
+-- IMPORTS
+*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+
+/*
+-- VARIABLES 
+*/
+:root{
+    --color-amarillo: #4cbbb9;
+    --color-grisClaro: #77d8d8;
+    --color-grisOscuro: #666666;
+    --color-azul: #0779e4;
+    --color-verde: #77d8d8;
+    --color-celeste: #132743;
+}
+
+
+/* -- GENERALES --*/
+*{
+    box-sizing: border-box;
+    margin:0
+}
+body{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 300;
+    background-color: var(--color-grisClaro);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #eff3c6;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+.principal{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.principal .titulo h2{
+    text-align: left;
+    font-size: 24px;
+    color: var(--color-grisOscuro);
+    padding: 30px;
+}
+
+.principal .contenido{
+    background-color: #eff3c6;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+}
