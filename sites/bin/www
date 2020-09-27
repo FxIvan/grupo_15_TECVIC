@@ -5,14 +5,14 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('tecvic:server');
+var debug = require('debug')('mercadoliebre:server');
 var http = require('http');
 
 /**
  * Get port from environment and store in Express.
  */
 
-var port = normalizePort(process.env.PORT || '3000');
+var port = normalizePort(process.env.PORT || '3003');
 app.set('port', port);
 
 /**
@@ -88,3 +88,9 @@ function onListening() {
     : 'port ' + addr.port;
   debug('Listening on ' + bind);
 }
+console.log(`
+***************************************
+Servidor funcionando en el puerto ${port}
+link ---->>> http://localhost:${port}
+***************************************
+`);
