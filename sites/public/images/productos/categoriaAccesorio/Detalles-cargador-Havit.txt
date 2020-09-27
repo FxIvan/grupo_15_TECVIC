@@ -1,7 +1,0 @@
-Cargador para Auto  
-
-Marca: Havit
-Tipo: HV H236
-Color: Negro
-
-precio 900
